@@ -39,60 +39,60 @@ e.g. avoid using these
 
 - dead weight and phrases (the 'well-known' can be replaced by citations)
 
--- As it is well know
+>> As it is well know
 
--- As it has been shown
+>> As it has been shown
 
--- It can be regarded that
+>> It can be regarded that
 
--- It should be emphasized that
+>> It should be emphasized that
 
 - empty words and phrases ()
 
--- basic tenets of
+>> basic tenets of
 
--- methodologic
+>> methodologic
 
--- important (useless, your work is of course important)
+>> important (useless, your work is of course important)
 
 - long words and phrases can be short (abbreviation)
 
--- muscular and cardioresniratory performance == fitness
+>> muscular and cardioresniratory performance == fitness
 
 - unnecessary jargon and acronyms
 
--- miR
+>> miR
 
--- Gliomagenesis
+>> Gliomagenesis
 
--- muscular and cardiorepiratory performance
+>> muscular and cardiorepiratory performance
 
 - repetitive words or phrases
 
--- studies/examples
+>> studies/examples
 
--- illustrates/demonstrates
+>> illustrates/demonstrates
 
--- challenges/difficulties
+>> challenges/difficulties
 
--- successful solutions (there is no unsuccessful solution)
+>> successful solutions (there is no unsuccessful solution)
 
 - use less adverbs in writing
 
--- very, really, quite, generally, basically
+>> very, really, quite, generally, basically
 
 ## 1.5 more tricks to cut the clutters
 
 - eliminate negatives
 
--- double negative -> positive sound
+>> double negative -> positive sound
 
 - eliminate there are/there is
 
--- The data confirm that 
+>> The data confirm that 
 
--- There is one student in the class who passed the exam. -->ONe student in the class passed the exam.
+>> There is one student in the class who passed the exam. -->ONe student in the class passed the exam.
 
 - omit needless prepositions
 
--- Let's meet on Tuesday -> Let's meet Tuesday.
+>> Let's meet on Tuesday -> Let's meet Tuesday.
