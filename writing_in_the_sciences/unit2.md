@@ -2,41 +2,63 @@
 
 ## 2.1 Use the active voices
 
-active voice: subject (agent) + verb + noun (receipient)
+- active voice: subject (agent) + verb + noun (receipient)
 
-advantages of the active voice 
+- advantages of the active voice 
 
-- emphasize the author's respobsibility: involve human in the sentence
+>> emphasize the author's respobsibility: involve human in the sentence
 
-- increase readability
+>> increase readability
 
-- reduce ambiguity
+>> reduce ambiguity
 
-When to use pasisve voice:
+- **When to use passive voice:**
 
-**Method** section of paper: what is done,because we have to *avoid using **we*** for many sentences.
+>> **Method** section of paper: what is done, because we have to *avoid using **we*** for many sentences.
 
-**introduction, result, discussion** sections use active voice
+>> **introduction, result, discussion** sections use active voice
 
 ## 2.2 Is it OK to use *WE* and *I* in the paper?
 
 YES
 
-## 2.3
+## 2.3 Active voice practice
 
-## 2.4 use strong verbs
+## 2.4 Write with verbs 
 
-- Pick the right verb:
+- Use strong verbs
 
-report approximately -> estimate
+>> obtain estimates of -> estimate
 
-estimate -> project 
+>> has seen an expansion in -> has expanded
+
+>> provides a methodologic emphasis -> emphsize
+
+>> take an assessment of -> assess
+
+>> provide a review of -> review
+
+>> offer confirmation of -> confirm
+
+>> make a decision -> decide
+
+>> shows a peak -> peak
+
+>> provide a description of -> describe
+
+>> report approximately -> estimate
+
+>> estimate -> project 
 
 - Replace "to be" verbs
 
+>> Do not write too many (is, are, am, was, were) in the passage
+
 - Don't turn verbs into nouns: who does what to whom
 
-- Don't bury the main verb: keep the subject and main verb close
+- Don't bury the main verb
+
+>> keep the subject and main verb close!!
 
 ## 2.5 practice examples
 
