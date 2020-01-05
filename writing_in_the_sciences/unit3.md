@@ -4,15 +4,16 @@
 
 dash, colon, semicolon, parenthesis - use it to vary sentence structure
 
-increasing power to seperate: 
+increasing power to seperate a sentence: 
 comma -> colon -> dash -> parentheses -> semicolon -> period
 
 - semicolon
 
 >> - it is used to link two independent sentences
 
-semicolon can give enough attention to the second sentences, compared with comma;
-semicolon can connect two sentences, compared with period.
+>> - semicolon can give enough attention to the second sentences, compared with comma;
+
+>> - semicolon can connect two sentences, compared with period.
 
 ```
 e.g. 
@@ -20,38 +21,39 @@ Kennedy could be a cold and vain man, and he led a life of privilege.
 But he knew something about the world; he also cared about it.
 ```
 
-separate items in lists that contain internal punctuation (e.g. comma)
+>> - separate items in lists that contain internal punctuation (e.g. comma)
 
 - parentheses
 
-insert a word, phrase, or sentence into a passage 
+>> - insert a word, phrase, or sentence into a passage 
 
-if removing the material within the parentheses, the main point of the sentence should not change
+>> - if removing the material within the parentheses, the main point of the sentence should not change
 
-parentheses give the reader permission to skip over the material
+>> - parentheses give the reader permission to skip over the material
 
 - colon
 
-explanation: the sencond sentence explains the first or 
+>> - explanation: the sencond sentence explains the first, or 
 
-amplification: the second sentence amplifies the first sentence
+>> - amplification: the second sentence amplifies the first sentence
 
-Some editors capitalize the first letter of the second sentences
+>> - editors capitalize the first letter of the second sentences
 
+```
 e.g. A is very beatiful: She has long hairs and big blue eyes. (semicolon use lower case)
+```
 
-use nouns after the colon
+>> - use nouns after the colon
 
 - dash
 
-use it to add more information
-
+>> - use it to add more information
 
 ## practice, colon and dash
 
 ## Parallelism
 
-pairs of ideas joined by "and", "or", or "but" should be written in parallel form
+- pairs of ideas joined by "and", "or", or "but" should be written in parallel form
 
 ```
 e.g. We aimed to increase the resolution and to improve picture quality.
@@ -67,17 +69,22 @@ A: Bates describes the five principles for the success of decision support syste
 
 - paragraph flow is helped by: 
 
-1) logical flow of ideas: 
+>> 1) logical flow of ideas: 
 
-1.1 general -> specific
+>>> 1.1 general -> specific
 
-1.2 logical arguments (if a then b)
+>>> 1.2 logical arguments (if a then b)
 
-1.3 sequential in time
+>>> 1.3 sequential in time
 
-2) parallel sentence structures, 
+>> 2) parallel sentence structures, 
 
-3) if necessary, transition words
+>> 3) if necessary, transition words
 
 - Make the first and the last sentence best. Readers pay attention to them more.
 
+## Tips
+
+- It's OK to repeat the keyword
+
+- Acryonyms like MADDPG should be skipped (unless this acryonyms are well-known to researchers in your field, e.g. RL, ML, DL). If you cannot do that, try to explain the meaning of it in every place rather than only in the first place, since the reader may not read your paper from the beginning. 
