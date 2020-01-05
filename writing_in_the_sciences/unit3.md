@@ -49,4 +49,35 @@ use it to add more information
 
 ## practice, colon and dash
 
+## Parallelism
+
+pairs of ideas joined by "and", "or", or "but" should be written in parallel form
+
+```
+e.g. We aimed to increase the resolution and to improve picture quality.
+
+Q: Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity and to avoid data entry.
+
+A: Bates describes the five principles for the success of decision support systems in clinical settings: speed, real-time delivery, integration into workflow, simplicity, and the avoidance of data entry.
+```
+
+## Paragraphs
+
+- 1 paragraph = 1 idea
+
+- paragraph flow is helped by: 
+
+1) logical flow of ideas: 
+
+1.1 general -> specific
+
+1.2 logical arguments (if a then b)
+
+1.3 sequential in time
+
+2) parallel sentence structures, 
+
+3) if necessary, transition words
+
+- Make the first and the last sentence best. Readers pay attention to them more.
 
