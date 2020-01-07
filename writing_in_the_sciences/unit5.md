@@ -218,3 +218,67 @@ We believe that this shows...
  >>>> restate main findings
  
  >>>> give a final take-home message
+
+- tips
+
+>> - active voice/tell it like a story
+
+>> - start and end with the main finding
+
+>> - focus on what your data do prove, not what you had hoped your data would prove
+
+>> - write out the limitations and **focus on the limitations that matter**, do not write generic limitations
+
+>>>> **anticipate** what the reader **may criticize**
+
+>> - make sure your take-home message is clear and consistent
+
+- verb tense
+
+>> - past tense (refer to study details, results, analyses, and background research)
+
+>>>> We *found* that
+
+>>>> Subjects *may have experienced
+
+>>>> Miller et al. *found
+
+>> - present tense (when talking about what the data suggest)
+
+>>>> The greater weight loss *suggests
+
+>>>> The explanation for this difference *is* not clear
+
+>>>> Potential explanations *include
+
+## abstract
+
+- abstract (ab=out, trahere=pull; "to pull out")
+
+>> - overview of the main story
+
+>> - gives highlights from each section of the paper
+
+>> -  limited length (100-300 words)
+
+-organization
+
+>> - background
+
+>> - question/aim/hypothesis
+
+>>>> "we asked whether", "we hypothesized that"
+
+>> - experiment(s)
+
+>>>> quick summary of key materials and methods
+
+>> - results
+
+>>>> key results found
+
+>> - conclusion
+
+>>>> the answer to the question asked before
+
+>> - implication, speculation, or recommendation
