@@ -95,4 +95,126 @@ We believe that this shows...
 
 >> - we compared
 
+## methods 
+
+- give a clear **overview** of what was done
+
+- give **enough information** to replicate the study
+
+- be complete
+
+>> - break into small sections with subheadings
+
+>> - cite a reference for commonly used methods 
 ```
+>>>> e.g. as previously described [1]
+```
+>> - display in a flow diagram or table
+
+- we may use **jargon** and the **passive voice** more liberally in method section
+
+- verb tense
+
+>> - report methods in past tense 
+
+>>>> we measured/analyzed/found
+
+>> - use present tense to describe how data are presented in the paper
+
+>>>> data are summarized as means +/- SD
+
+## introduction
+
+ - follows a fairly standard format
+ 
+ - typically 3 paragraphs long (range 2-5)
+ 
+ - should focus on the specific hypothesis/aim of your study
+ 
+ - diagram
+ 
+ ***paragraph 1
+ 
+ >> - background (what's known)
+ 
+ ***paragraph 2
+ 
+ >> - knowledge gap (what's unknown, limitations and gaps in previous studies)
+ 
+ ***paragraph 3
+ 
+ >> - hypothesis, question, purpose statement
+ 
+ >>>> we hypothesized/aimed
+ 
+ >> - approach, plan of attack, proposed solution
+ 
+ >>>> our study is going to fill in the gaps and limitations of previous studies (but no reuslts or implications here)
+ 
+ >> - summarize at a high level. Leave detailed descriptions, speculations, and criticisms of particular studies for discussion
+ 
+ - tips
+ 
+ >> - keep paragraphs short
+ 
+ >> - write for a general audience (clear, concise, non-technical)
+ 
+ >> - known -> unknown -> questions/hypothesis (general -> specific)
+ 
+ ## discussion
+ 
+ - diagram
+ 
+ >> - answer the question asked
+ 
+ >> - support your conclusion (your data, others' data)
+ 
+ >> - defend your conclusion (anticipate criticisms)
+ 
+ >> - give the "big-pictures" take-home messsage
+ 
+ >>>> (**VIP**: what do my results mean and why should anyone care?)
+ 
+ - **organization**
+ 
+ >> - key finding (answer to the question(s) asked in Intro.)
+ 
+ >>>> Start with: "WE FOUND THAT..." (or something similar)
+ 
+ >>>> Explain what the data mean (big-picture!) 
+ 
+ >>>> State if he findings are novel
+ 
+ >> - key secondary findings
+ 
+ >> - Context
+ 
+ >>>> give possible mechanisms or pathways
+ 
+ >>>> compare your results with other people's results
+ 
+ >>>> discuss how your findings support or challenge the paradigm
+ 
+ >> - Strengths and limitations
+ 
+ >>>> anticipate readers' questions/criticisms
+ 
+ >>>> explain why your results are robust
+ 
+ >> - What's next
+ 
+ >>>> recommended confirmatory studies ("needs to be confirmed")
+ 
+ >>>> point our unanswered questions and future directions
+ 
+ >> - The "so what?": impplicate, speculate, recommend
+ 
+ >>>> give big-picture implications of findings
+ 
+ >>>> tell readers why they should care
+  
+ >> - Strong conclusion
+ 
+ >>>> restate main findings
+ 
+ >>>> give a final take-home message
